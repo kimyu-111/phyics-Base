@@ -9,3 +9,6 @@
 ##3.Modeling a Mass and Spring
 <img width="2729" height="2399" alt="image" src="https://github.com/user-attachments/assets/9a148372-7f13-4cdc-967a-5206f8572109" />
 <img width="2472" height="2248" alt="image" src="https://github.com/user-attachments/assets/46e63bac-36d4-4e6f-919c-540882b07cfd" />
+<br>
+##43D Modeling a Mass on a Spring
+![20260209_225432](https://github.com/user-attachments/assets/32b4d7c5-9b64-4471-8972-e0f044f766f8)
