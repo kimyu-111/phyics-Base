@@ -12,3 +12,6 @@
 <br>
 ##43D Modeling a Mass on a Spring
 ![20260209_225432](https://github.com/user-attachments/assets/32b4d7c5-9b64-4471-8972-e0f044f766f8)
+<br>
+##5 Why Springs are Important
+<img width="1406" height="856" alt="image" src="https://github.com/user-attachments/assets/0b6d56ca-03fc-4e2f-9de0-d9eaa7fce626" />
