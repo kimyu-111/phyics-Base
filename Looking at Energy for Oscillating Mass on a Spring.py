@@ -52,4 +52,4 @@ while t < 5:
     spring.axis = L
 
 Tt = 2 * math.pi * sqrt(L0 / 9.8)
-print("T theory =", Tt, "s")
+print("T theory =", Tt, "s")kiomyo
