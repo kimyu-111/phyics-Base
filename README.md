@@ -15,3 +15,6 @@
 <br>
 ##5 Why Springs are Important
 <img width="1406" height="856" alt="image" src="https://github.com/user-attachments/assets/0b6d56ca-03fc-4e2f-9de0-d9eaa7fce626" />
+<br>
+##62 Masses Connected by a Spring
+<img width="1417" height="803" alt="image" src="https://github.com/user-attachments/assets/0ffef5b7-0a42-45a0-b904-8d491cf2a93f" />
