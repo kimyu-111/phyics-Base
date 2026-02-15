@@ -18,3 +18,6 @@
 <br>
 ##6. 2 Masses Connected by a Spring
 <img width="1417" height="803" alt="image" src="https://github.com/user-attachments/assets/0ffef5b7-0a42-45a0-b904-8d491cf2a93f" />
+<br>
+##7. Elastic Collisions and Springs
+<img width="1605" height="1138" alt="image" src="https://github.com/user-attachments/assets/b9814d6a-6d95-4460-ae62-8e340e514cf4" />
