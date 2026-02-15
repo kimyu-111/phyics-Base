@@ -10,8 +10,11 @@
 <img width="2729" height="2399" alt="image" src="https://github.com/user-attachments/assets/9a148372-7f13-4cdc-967a-5206f8572109" />
 <img width="2472" height="2248" alt="image" src="https://github.com/user-attachments/assets/46e63bac-36d4-4e6f-919c-540882b07cfd" />
 <br>
-##43D Modeling a Mass on a Spring
+##4. 3D Modeling a Mass on a Spring
 ![20260209_225432](https://github.com/user-attachments/assets/32b4d7c5-9b64-4471-8972-e0f044f766f8)
 <br>
-##5 Why Springs are Important
+##5. Why Springs are Important
 <img width="1406" height="856" alt="image" src="https://github.com/user-attachments/assets/0b6d56ca-03fc-4e2f-9de0-d9eaa7fce626" />
+<br>
+##6. 2 Masses Connected by a Spring
+<img width="1417" height="803" alt="image" src="https://github.com/user-attachments/assets/0ffef5b7-0a42-45a0-b904-8d491cf2a93f" />
