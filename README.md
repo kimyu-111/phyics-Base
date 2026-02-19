@@ -21,3 +21,6 @@
 <br>
 ##7. Elastic Collisions and Springs
 <img width="1605" height="1138" alt="image" src="https://github.com/user-attachments/assets/b9814d6a-6d95-4460-ae62-8e340e514cf4" />
+<br>
+##8. Plain Collisions and Springs
+<img width="1624" height="935" alt="image" src="https://github.com/user-attachments/assets/054fdea2-2222-4c4b-98d2-7d20a70b0112" />
