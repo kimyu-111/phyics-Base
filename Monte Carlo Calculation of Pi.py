@@ -17,7 +17,7 @@ while n<N:
     fq.plot(r.x,r.y)
   else:
     fo.plot(r.x,r.y)
-  
+
 n=n+1
 
 tpi=cin*4/n
