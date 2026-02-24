@@ -27,4 +27,6 @@
 <br>
 ##9. Orbits and Angular Momentum
 <img width="1254" height="530" alt="image" src="https://github.com/user-attachments/assets/79aa8c5f-9f27-4f99-b8a3-0bcaa5155b60" />
-
+<br>
+##10. Numerical Calculation of the Moment of Inertia for a Rod
+<img width="1409" height="818" alt="image" src="https://github.com/user-attachments/assets/e11ef558-aa13-401e-9171-e3ee7f276cb8" />
