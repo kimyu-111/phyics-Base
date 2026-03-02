@@ -30,3 +30,6 @@
 <br>
 ##10. Numerical Calculation of the Moment of Inertia for a Rod
 <img width="1409" height="818" alt="image" src="https://github.com/user-attachments/assets/e11ef558-aa13-401e-9171-e3ee7f276cb8" />
+<br>
+##11.Monte Carlo Calculation of Moment of Inertia for a Spherical Shell
+<img width="1430" height="641" alt="image" src="https://github.com/user-attachments/assets/e22bdf79-4973-4744-8137-ddb2f638bfc6" />
