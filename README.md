@@ -33,3 +33,6 @@
 <br>
 ##11.Monte Carlo Calculation of Moment of Inertia for a Spherical Shell
 <img width="1430" height="641" alt="image" src="https://github.com/user-attachments/assets/e22bdf79-4973-4744-8137-ddb2f638bfc6" />
+<br>
+##12.Approximate vs. Exact Electric Field due to a Dipole
+<img width="1235" height="604" alt="image" src="https://github.com/user-attachments/assets/1ff38aab-e0b5-405a-a9e8-81bae0f5823f" />
