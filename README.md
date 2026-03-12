@@ -36,3 +36,6 @@
 <br>
 ##12.Approximate vs. Exact Electric Field due to a Dipole
 <img width="1235" height="604" alt="image" src="https://github.com/user-attachments/assets/1ff38aab-e0b5-405a-a9e8-81bae0f5823f" />
+<br>
+##13.Visualizing the Electric Field Due to a Dipole
+<img width="1341" height="606" alt="image" src="https://github.com/user-attachments/assets/c218e8da-5699-481b-8356-c9f1763cbb5f" />
