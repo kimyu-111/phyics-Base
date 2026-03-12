@@ -39,3 +39,6 @@
 <br>
 ##13.Visualizing the Electric Field Due to a Dipole
 <img width="1341" height="606" alt="image" src="https://github.com/user-attachments/assets/c218e8da-5699-481b-8356-c9f1763cbb5f" />
+<br>
+##14.Using Monte Carlo to find E due to a Charged Sphere
+<img width="1727" height="1017" alt="image" src="https://github.com/user-attachments/assets/8eace741-fa69-40a5-918a-788c035a3851" />
